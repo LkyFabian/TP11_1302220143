@@ -1,0 +1,14 @@
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TP11_130222014\TP11_130222014\bin\Debug\net8.0\TP11_130222014.exe
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TP11_130222014\TP11_130222014\bin\Debug\net8.0\TP11_130222014.deps.json
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TP11_130222014\TP11_130222014\bin\Debug\net8.0\TP11_130222014.runtimeconfig.json
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TP11_130222014\TP11_130222014\bin\Debug\net8.0\TP11_130222014.dll
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TP11_130222014\TP11_130222014\bin\Debug\net8.0\TP11_130222014.pdb
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TP11_130222014\TP11_130222014\obj\Debug\net8.0\TP11_130222014.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TP11_130222014\TP11_130222014\obj\Debug\net8.0\TP11_130222014.AssemblyInfoInputs.cache
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TP11_130222014\TP11_130222014\obj\Debug\net8.0\TP11_130222014.AssemblyInfo.cs
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TP11_130222014\TP11_130222014\obj\Debug\net8.0\TP11_130222014.csproj.CoreCompileInputs.cache
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TP11_130222014\TP11_130222014\obj\Debug\net8.0\TP11_130222014.dll
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TP11_130222014\TP11_130222014\obj\Debug\net8.0\refint\TP11_130222014.dll
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TP11_130222014\TP11_130222014\obj\Debug\net8.0\TP11_130222014.pdb
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TP11_130222014\TP11_130222014\obj\Debug\net8.0\TP11_130222014.genruntimeconfig.cache
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tugas Pendahuluan\TP11_130222014\TP11_130222014\obj\Debug\net8.0\ref\TP11_130222014.dll
